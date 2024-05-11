@@ -1,0 +1,31 @@
+[debug] [2024-05-11T16:12:12.420Z] ----------------------------------------------------------------------
+[debug] [2024-05-11T16:12:12.423Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\inapc\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-05-11T16:12:12.423Z] CLI Version:   10.9.2
+[debug] [2024-05-11T16:12:12.423Z] Platform:      win32
+[debug] [2024-05-11T16:12:12.424Z] Node Version:  v16.15.1
+[debug] [2024-05-11T16:12:12.424Z] Time:          Sat May 11 2024 23:12:12 GMT+0700 (Western Indonesia Time)
+[debug] [2024-05-11T16:12:12.424Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-05-11T16:12:12.508Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-05-11T16:12:12.508Z] > authorizing via signed-in user (syabinanf25@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\inapc\Downloads\punya aul\pi\presensi-backend
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[debug] [2024-05-11T16:12:30.013Z] Error: kill ENOSYS
+    at process.kill (node:internal/process/per_thread:220:13)
+    at process.listener (C:\Users\inapc\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\signal-exit\index.js:95:15)
+    at process.emit (node:events:527:28)
+[error] 
+[error] Error: An unexpected error has occurred.
